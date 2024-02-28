@@ -1,5 +1,7 @@
 import React from 'react';
 import QRCode from 'qrcode.react';
+import from './App.css';
+
 function App() {
   return (
     <div className="App">
